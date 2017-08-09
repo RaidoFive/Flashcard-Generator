@@ -1,0 +1,25 @@
+{
+  "name": "flashcards",
+  "version": "1.0.0",
+  "description": "flashcard generator homework",
+  "main": "BasicCard.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RaidoFive/Flashcard-Generator.git"
+  },
+  "keywords": [
+    "flashcard",
+    "node",
+    "npm",
+    "javascript"
+  ],
+  "author": "Steve Hopkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RaidoFive/Flashcard-Generator/issues"
+  },
+  "homepage": "https://github.com/RaidoFive/Flashcard-Generator#readme"
+}
